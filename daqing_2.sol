@@ -1,4 +1,20 @@
 // SPDX-License-Identifier: MIT
+
+/*
+    大强solidity语言开发学习
+
+    Remix国内加速版
+
+    https://pancake.kiemtienonline360.com/
+
+    代码地址
+    GitHub：https://github.com/dogekingtokendev
+
+    TG电报群
+    https://t.me/daqiang_solidity
+    
+
+*/ 
 pragma solidity ^0.8.0;
 
 abstract contract Context {
@@ -1923,8 +1939,6 @@ contract DAQIANG is ERC20, Ownable {
 
     address public deadWallet = 0x000000000000000000000000000000000000dEaD;
 
-    
-
     uint256 public gasForProcessing;
 
     bool public swapAndLiquifyEnabled = true;
@@ -1968,6 +1982,7 @@ contract DAQIANG is ERC20, Ownable {
         uint256 gas,
         address indexed processor
     );
+
 
     constructor(
         string memory name_,
