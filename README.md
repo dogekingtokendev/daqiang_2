@@ -6,14 +6,14 @@
 
 ## 源码
 
-https://github.com/dogekingtokendev/daqiang/blob/main/daqiang_2.sol
+https://github.com/dogekingtokendev/daqiang_2/blob/main/daqing_2.sol
 
 
 
 ## 编译/开源参数
 
 ```
-COMPILER: v0.8.4+commit.e28d00a7.js
+COMPILER: v0.8.0+commit.e28d00a7.js
 Enable optimization: 开启并使用默认值200
 Other Settings: default evmVersion, MIT license
 ```
