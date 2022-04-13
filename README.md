@@ -26,7 +26,7 @@ CONTRACT 选择 `daqiang`，Value `100000000000000000` （0.1BNB）
 name_:  daqiang Token (代币名称)
 symbol_: daqiang (代币符号)
 totalSupply_: 1000000000000000 (发行量1000万亿)
-ADDRS:['要分红的代币合约','0x10ed43c718714eb63d5aa57b78b54704e256024e','营销钱包地址','0xcCd064831839A8fD64D2A742FE6192e5fF4eF2D1']
+ADDRS:['要分红的代币合约','0x10ed43c718714eb63d5aa57b78b54704e256024e','营销钱包地址','0xad6906b9689ba0f32cd29ff4964e6a5b1897922c']
 FEESETTINGS: [4,3,2,1] (分红、流动性、市场营销、销毁)
 SELLFEESETTING: [4,3,2,1] (分红、流动性、市场营销、销毁)
 MINIMUMTOKENBALANCEFORDIVIDENDS_: 10000000000 (100亿持有多少代币参与分红。数量后要加18个0)
